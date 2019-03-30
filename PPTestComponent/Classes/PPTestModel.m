@@ -16,9 +16,7 @@
 
 + (instancetype)model
 {
-    PPTestModel *m = [[self alloc] init];
-    m.count = 3;
-    return m;
+    return [[self alloc] init];
 }
 
 @end
