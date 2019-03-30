@@ -1,0 +1,16 @@
+PODS:
+  - PPTestComponent (0.1.0)
+
+DEPENDENCIES:
+  - PPTestComponent (from `../`)
+
+EXTERNAL SOURCES:
+  PPTestComponent:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PPTestComponent: 61fcb013475cdb91f7ea596c26678df93d630c24
+
+PODFILE CHECKSUM: b356bdf2fad40b6a4678f97d61337952a09e6d54
+
+COCOAPODS: 1.6.1

@@ -1,0 +1,6 @@
+framework module PPTestComponent {
+  umbrella header "PPTestComponent-umbrella.h"
+
+  export *
+  module * { export * }
+}
