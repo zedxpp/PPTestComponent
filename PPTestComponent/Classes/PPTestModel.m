@@ -11,7 +11,7 @@
 
 - (void)log
 {
-    NSLog(@"%zd", self.count);
+    NSLog(@"count = %zd", self.count);
 }
 
 + (instancetype)model
