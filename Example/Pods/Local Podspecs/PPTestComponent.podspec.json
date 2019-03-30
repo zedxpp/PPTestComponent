@@ -3,20 +3,21 @@
   "version": "0.1.0",
   "summary": "A short description of PPTestComponent.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/pengpengtest/PPTestComponent",
+  "homepage": "https://github.com/zedxpp/PPTestComponent",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "pengpengtest": "zedxpp@gmail.com"
+    "zedxpp": "zedxpp@gmail.com"
   },
   "source": {
-    "git": "https://github.com/pengpengtest/PPTestComponent.git",
+    "git": "https://github.com/zedxpp/PPTestComponent.git",
     "tag": "0.1.0"
   },
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "PPTestComponent/Classes/**/*"
+  "source_files": "PPTestComponent/Classes/**/*",
+  "prefix_header_contents": "#ifdef __OBJC__\n#import \"PPTestComponent.h\"\n#endif /* __OBJC__*/"
 }

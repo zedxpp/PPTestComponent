@@ -10,6 +10,8 @@
 #endif
 #endif
 
+#import "PPTestComponent.h"
+#import "PPTestModel.h"
 
 FOUNDATION_EXPORT double PPTestComponentVersionNumber;
 FOUNDATION_EXPORT const unsigned char PPTestComponentVersionString[];
