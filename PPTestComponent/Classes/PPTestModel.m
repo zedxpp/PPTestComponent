@@ -16,7 +16,8 @@
 
 + (instancetype)model
 {
-    return [[self alloc] init];
+    PPTestModel *m = [[self alloc] init];
+    return m;
 }
 
 @end
