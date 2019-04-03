@@ -1,15 +1,22 @@
 PODS:
-  - PPTestComponent (0.1.0)
+  - Masonry (1.1.0)
+  - PPTestComponent (0.1.9):
+    - Masonry
 
 DEPENDENCIES:
   - PPTestComponent (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Masonry
 
 EXTERNAL SOURCES:
   PPTestComponent:
     :path: "../"
 
 SPEC CHECKSUMS:
-  PPTestComponent: b33936b6be9cac206906a5d46cb52d8ba1d1780f
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  PPTestComponent: 6238a950a102774ac550a199f401740cffb35267
 
 PODFILE CHECKSUM: b356bdf2fad40b6a4678f97d61337952a09e6d54
 
